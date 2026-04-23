@@ -1,0 +1,9 @@
+﻿  5.cpp
+C:\Users\FanStudio\Desktop\Code\C\study\wekk\ConsoleApplication1\5.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\FanStudio\Desktop\Code\C\study\wekk\ConsoleApplication1\5.cpp(8,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\FanStudio\Desktop\Code\C\study\wekk\ConsoleApplication1\5.cpp(21,12): error C2001: 常量中有换行符
+C:\Users\FanStudio\Desktop\Code\C\study\wekk\ConsoleApplication1\5.cpp(22,4): error C2143: 语法错误: 缺少“)”(在“}”的前面)
+C:\Users\FanStudio\Desktop\Code\C\study\wekk\ConsoleApplication1\5.cpp(22,4): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\FanStudio\Desktop\Code\C\study\wekk\ConsoleApplication1\5.cpp(24,12): error C2001: 常量中有换行符
+C:\Users\FanStudio\Desktop\Code\C\study\wekk\ConsoleApplication1\5.cpp(25,4): error C2143: 语法错误: 缺少“)”(在“}”的前面)
+C:\Users\FanStudio\Desktop\Code\C\study\wekk\ConsoleApplication1\5.cpp(25,4): error C2143: 语法错误: 缺少“;”(在“}”的前面)
