@@ -10,7 +10,11 @@ int main(){
     int i,j;
     for(j=0;j<5;j++){
         for(i=0;i<3;i++){
-        printf("%d\t",nums[j][i]);
+
+
+        
+
+
     }
     printf("\n");
 
