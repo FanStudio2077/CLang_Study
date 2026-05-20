@@ -1,10 +1,12 @@
 #include<stdio.h>
-int nums[];//全局变量会自动赋初值
-int *changenum(){
-    
-    return nums;
-}
+#include<stdlib.h>
 int main(){
-    int *nums=changenum();
-    printf("%p",nums);
+    long A,B,C,D;
+    printf("请输入IP地址:");
+    scanf("%d.%d.%d.%d",&A,&B,&C,&D);
+    printf("%d.%d.%d.%d",A,B,C,D);
+
 }
+
+
+
